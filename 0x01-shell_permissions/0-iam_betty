@@ -1,2 +1,2 @@
 #!/bin/bash
-chown batty
+su betty
